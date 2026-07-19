@@ -98,13 +98,7 @@ body {
 }
 
 #rocket {
-  max-width: 500px;
   width: 100%;
-  height: 1000;
-  max-height: 1020px;
-  margin-top: 8px;
-  z-index: 1500;
-  object-fit: contain;
   display: none;
 }
 
